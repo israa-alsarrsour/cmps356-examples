@@ -6,7 +6,6 @@ header {
 /** navigation */
 nav ul {
     list-style-type: none;
-    display: block;
 }
 
 nav ul li {
